@@ -1,7 +1,7 @@
 class radio_button_tag
   
   def name=(name)
-    dog_name
+    dog_name = name 
   end
   
   def name
